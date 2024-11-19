@@ -27,4 +27,12 @@ Provide the most important ideas for data analysis in one page
     - Variance 
 - Measures of Position
     - Quartiles
-    - Percentiles 
+    - Percentiles
+ 
+
+## Probalbility
+- Probability Rules
+    - Complement Rule
+    - Addition Rule - Applies to events that are mutually exclusive
+    - Multiplication Rule - Applies to events that are independent
+- Bayes Theorem - [Visualization](https://oscarbonilla.com/2009/05/visualizing-bayes-theorem/)
